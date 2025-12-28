@@ -1,5 +1,6 @@
-This project is intended to showcase my grasp of business logic meeting software.
+This full-stack software application handles a business process.
 
-I plan to design and develop this full-stack application to demonstrate the concepts I've learned in my work.
-
-Included will be a UI, backend code for business process logic, etc., and a database, with, at the very least, CRUD operations for record management. 
+Overall Scope: 
+- Frontend for UI
+- Backend for business process logic, db access, etc.
+- Database for record storage
